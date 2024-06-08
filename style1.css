@@ -1,0 +1,215 @@
+.preview-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.preview-preview {
+  width: 1638px;
+  height: 958px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(242, 242, 242, 1);
+}
+.preview-desktop32 {
+  top: 21px;
+  left: 1320px;
+  width: 253px;
+  height: 1034px;
+  position: absolute;
+}
+.preview-text {
+  top: 276.347412109375px;
+  left: 116.240234375px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 71.78933715820312px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 117.52272844314575%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.preview-text04 {
+  top: 479px;
+  left: 116.240234375px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 51.29878616333008px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 117.52272844314575%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.preview-text06 {
+  top: 548px;
+  left: 116px;
+  color: rgba(0, 0, 0, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 40.611541748046875px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 117.52272844314575%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.preview-image41 {
+  top: 277.34954833984375px;
+  left: 864.7638549804688px;
+  width: 292px;
+  height: 632px;
+  position: absolute;
+}
+.preview-image241 {
+  top: 242.68661499023438px;
+  left: 507.9168701171875px;
+  width: 292px;
+  height: 632px;
+  position: absolute;
+}
+.preview-group2 {
+  top: 189px;
+  left: 190px;
+  width: 234px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(0, 0, 0, 1);
+}
+.preview-text08 {
+  top: 7.987548828125px;
+  left: 25.5595703125px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28.7549991607666px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 117.52272844314575%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.preview-image1021 {
+  top: -340.5147705078125px;
+  left: 637.4025268554688px;
+  width: 292px;
+  height: 632px;
+  position: absolute;
+}
+.preview-group1000002525 {
+  top: 635px;
+  left: 102px;
+  width: 146px;
+  height: 92px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.preview-frame1 {
+  gap: 27.556875228881836px;
+  top: 18.37548828125px;
+  left: 46.5673828125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.preview-figma {
+  width: 55.11375045776367px;
+  height: 55.11375045776367px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.preview-figma1 {
+  top: 4.305761814117432px;
+  left: 12.056133270263672px;
+  width: 31.001483917236328px;
+  height: 46.502227783203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.preview-vector {
+  top: 15.500718116760254px;
+  left: 15.500722885131836px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.preview-vector1 {
+  top: 31.001461029052734px;
+  left: -0.000019431114196777344px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.preview-vector2 {
+  top: -0.000024378299713134766px;
+  left: 15.500722885131836px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.preview-vector3 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.preview-vector4 {
+  top: 15.500718116760254px;
+  left: -0.000019431114196777344px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.preview-group1 {
+  top: 177px;
+  left: 110px;
+  width: 64.65499877929688px;
+  height: 64.65499877929688px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 94, 8, 1);
+}
+.preview-trendingtopic2 {
+  top: 14.491692543029785px;
+  left: 14.491692543029785px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.preview-desktop31 {
+  top: 73px;
+  left: 620px;
+  width: 814px;
+  height: 3328px;
+  position: absolute;
+}
